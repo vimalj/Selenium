@@ -13,4 +13,4 @@ Other folder contain pptx files that includes commands usage.
 - Require java library external jar files that need to be added in your project to recognise selenium commands
 Download from selenium site.
 
-Make sure the versions of drivers are compatible with selenium version and java to avoid errors.
+**Make sure the versions of drivers are compatible with selenium version and java to avoid errors.**
